@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">hi there 🍭</h1>
+<h3 align="center">i am blockhain dev python engineer</h3>
 
-<!--
-**yungwine/yungwine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yungwine&label=Profile%20views&color=0e75b6&style=flat" alt="yungwine" /> </p>
 
-Here are some ideas to get you started:
+- im working with [💎 TON 💎](https://ton.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [how to reach me](https://t.me/yungwine)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yungwine&show_icons=true&locale=en" alt="yungwine" /></p>
